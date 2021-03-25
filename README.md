@@ -47,7 +47,7 @@ nim c -d=debug --cc:gcc --embedsrc=on --hints=on --app=console --cpu=amd64 --out
 
 This tool is not FUD, and may even be detected by defender now. Which is one of the reasons for it's public release ;)
 
-I encourage you to read the source and modify it to bypass any signatures that are currently being detected. The main goal of posting this project was not to give the world a FUD crypter, but rather one that offensive security professionals can learn from and modify themselves for something more pratical.
+I encourage you to read the source and modify it to bypass any signatures that are currently being detected. The main goal of posting this project was not to give the world a FUD crypter, but rather one that offensive security professionals can learn from and modify themselves for something more practical.
 
 Further References and Greetz:
 * Xencrypt: https://github.com/the-xentropy/xencrypt (Taught me how crypters & AV work)
